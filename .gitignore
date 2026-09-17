@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Publish user-specific settings
+*.pubxml.user
+
+# Installer output
+Installer/Output/
+
+# Debug symbols
+*.pdb
+
+# Temporary project inspection files
+project-tree.txt
+all-files.txt
+
+# NuGet / temporary
+packages/
+*.nupkg
+*.snupkg
+
+# Logs / temp files
+*.log
+*.tmp
+*.temp
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
