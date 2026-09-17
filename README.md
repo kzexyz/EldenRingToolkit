@@ -60,6 +60,8 @@ Current item categories include:
 
 ## Installation
 
+Download the latest release from [Releases](https://github.com/kzexyz/EldenRingToolkit/releases/latest).
+
 Windows x64 only for now.
 
 You can use either the installer or the portable build from the Releases page.
