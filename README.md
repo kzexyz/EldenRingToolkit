@@ -142,4 +142,4 @@ Elden Ring and related assets belong to their respective owners.
 
 ## License
 
-TBD.
+License details will be added soon.
